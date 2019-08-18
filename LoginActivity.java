@@ -12,7 +12,6 @@ import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
-
 import com.muskan.quizapp.api.ApiConnection;
 import com.muskan.quizapp.api.OnApiResponseListener;
 
